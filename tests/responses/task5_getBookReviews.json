@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "results": 1,
+  "data": {
+    "isbn": "978-0-13-235088-4",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "reviews": [
+      {
+        "reviewId": "b5cfcb39-97da-4f92-9abe-3dfb27d2a7c7",
+        "isbn": "978-0-13-235088-4",
+        "userId": "d5327f14-d018-4109-a110-e80aeb022f4e",
+        "username": "testuser1",
+        "rating": 4,
+        "comment": "Updated review - still great!",
+        "createdAt": "2025-10-17T03:29:27.200Z",
+        "updatedAt": "2025-10-17T03:29:33.658Z"
+      }
+    ]
+  }
+}

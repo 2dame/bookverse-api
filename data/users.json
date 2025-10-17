@@ -20,6 +20,13 @@
       "password": "$2b$12$phTFBTKWL4AhK3WyhigZyOonLu.WEcFXSwY.kiOwlYviZO8BuJbOS",
       "email": "apitest@example.com",
       "createdAt": "2025-10-17T03:31:28.829Z"
+    },
+    {
+      "userId": "16bd95eb-e250-49b3-80d3-4b21c1e7254f",
+      "username": "test75437729",
+      "password": "$2b$12$i9Rg7UgLk4NHdg2c2cG85eIbhZsnBfnwLZLwzUm2XXX/glnoyfTnW",
+      "email": "test75437729@test.com",
+      "createdAt": "2025-10-17T04:30:38.031Z"
     }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "message": "Login successful",
+  "data": {
+    "userId": "16bd95eb-e250-49b3-80d3-4b21c1e7254f",
+    "username": "test75437729",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIxNmJkOTVlYi1lMjUwLTQ5YjMtODBkMy00YjIxYzFlNzI1NGYiLCJ1c2VybmFtZSI6InRlc3Q3NTQzNzcyOSIsImlhdCI6MTc2MDY3NTQzOCwiZXhwIjoxNzYwNzYxODM4fQ.oAMBVPZT74_0hnH9U7NuBKedAHR_2gy4HydDw5bRsI0"
+  }
+}

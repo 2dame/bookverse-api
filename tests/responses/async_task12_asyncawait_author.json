@@ -1,0 +1,22 @@
+{
+  "task": 12,
+  "pattern": "async/await",
+  "success": true,
+  "author": "Robert C. Martin",
+  "booksFound": 2,
+  "books": [
+    {
+      "isbn": "978-0-13-235088-4",
+      "author": "Robert C. Martin",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "reviews": []
+    },
+    {
+      "isbn": "978-0-13-468599-1",
+      "author": "Robert C. Martin",
+      "title": "Clean Architecture",
+      "reviews": []
+    }
+  ],
+  "timestamp": "2025-10-17T04:30:42.774Z"
+}

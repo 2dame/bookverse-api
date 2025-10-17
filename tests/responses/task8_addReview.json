@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "message": "Review added successfully",
+  "data": {
+    "review": {
+      "reviewId": "9a1501a7-381f-417c-ad53-b0a120ccf36c",
+      "isbn": "978-0-13-235088-4",
+      "userId": "16bd95eb-e250-49b3-80d3-4b21c1e7254f",
+      "username": "test75437729",
+      "rating": 5,
+      "comment": "Automated test review - Excellent book!",
+      "createdAt": "2025-10-17T04:30:38.376Z"
+    }
+  }
+}

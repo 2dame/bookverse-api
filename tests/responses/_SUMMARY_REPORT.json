@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "project": "BookVerse API v1.5",
+    "environment": "development",
+    "timestamp": "2025-10-17T04:30:38.399Z",
+    "baseUrl": "http://localhost:5001/api/v1"
+  },
+  "summary": {
+    "totalTests": 9,
+    "passed": 9,
+    "failed": 0,
+    "successRate": "100.0%"
+  },
+  "results": [
+    {
+      "task": 1,
+      "name": "Get All Books",
+      "method": "GET",
+      "endpoint": "/books",
+      "status": 200,
+      "responseTime": 58,
+      "passed": true,
+      "timestamp": "2025-10-17T04:30:37.694Z"
+    },
+    {
+      "task": 2,
+      "name": "Get Book by ISBN",
+      "method": "GET",
+      "endpoint": "/books/:isbn",
+      "status": 200,
+      "responseTime": 5,
+      "passed": true,
+      "timestamp": "2025-10-17T04:30:37.703Z"
+    },
+    {
+      "task": 3,
+      "name": "Get Books by Author",
+      "method": "GET",
+      "endpoint": "/books?author=",
+      "status": 200,
+      "responseTime": 6,
+      "passed": true,
+      "timestamp": "2025-10-17T04:30:37.711Z"
+    },
+    {
+      "task": 4,
+      "name": "Get Books by Title",
+      "method": "GET",
+      "endpoint": "/books?title=",
+      "status": 200,
+      "responseTime": 5,
+      "passed": true,
+      "timestamp": "2025-10-17T04:30:37.718Z"
+    },
+    {
+      "task": 5,
+      "name": "Get Book Reviews",
+      "method": "GET",
+      "endpoint": "/books/:isbn/reviews",
+      "status": 200,
+      "responseTime": 7,
+      "passed": true,
+      "timestamp": "2025-10-17T04:30:37.727Z"
+    },
+    {
+      "task": 6,
+      "name": "Register New User",
+      "method": "POST",
+      "endpoint": "/auth/register",
+      "status": 201,
+      "responseTime": 310,
+      "passed": true,
+      "timestamp": "2025-10-17T04:30:38.039Z"
+    },
+    {
+      "task": 7,
+      "name": "Login User",
+      "method": "POST",
+      "endpoint": "/auth/login",
+      "status": 200,
+      "responseTime": 323,
+      "passed": true,
+      "timestamp": "2025-10-17T04:30:38.365Z"
+    },
+    {
+      "task": 8,
+      "name": "Add Book Review",
+      "method": "POST",
+      "endpoint": "/books/:isbn/reviews",
+      "status": 201,
+      "responseTime": 11,
+      "passed": true,
+      "timestamp": "2025-10-17T04:30:38.379Z"
+    },
+    {
+      "task": 9,
+      "name": "Delete Book Review",
+      "method": "DELETE",
+      "endpoint": "/reviews/:reviewId",
+      "status": 204,
+      "responseTime": 7,
+      "passed": true,
+      "timestamp": "2025-10-17T04:30:38.389Z"
+    }
+  ]
+}
