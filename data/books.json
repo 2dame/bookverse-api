@@ -1,0 +1,65 @@
+{
+  "books": [
+    {
+      "isbn": "978-0-13-235088-4",
+      "author": "Robert C. Martin",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "reviews": []
+    },
+    {
+      "isbn": "978-0-13-468599-1",
+      "author": "Robert C. Martin",
+      "title": "Clean Architecture",
+      "reviews": []
+    },
+    {
+      "isbn": "978-0-201-63361-0",
+      "author": "Erich Gamma",
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "reviews": []
+    },
+    {
+      "isbn": "978-0-13-475759-9",
+      "author": "Andrew Hunt",
+      "title": "The Pragmatic Programmer: Your Journey To Mastery",
+      "reviews": []
+    },
+    {
+      "isbn": "978-0-13-235088-5",
+      "author": "Martin Fowler",
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "reviews": []
+    },
+    {
+      "isbn": "978-1-449-35573-9",
+      "author": "Marijn Haverbeke",
+      "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+      "reviews": []
+    },
+    {
+      "isbn": "978-1-491-95177-9",
+      "author": "Kyle Simpson",
+      "title": "You Don't Know JS: Up & Going",
+      "reviews": []
+    },
+    {
+      "isbn": "978-0-596-51774-8",
+      "author": "Douglas Crockford",
+      "title": "JavaScript: The Good Parts",
+      "reviews": []
+    },
+    {
+      "isbn": "978-1-617-29244-5",
+      "author": "Ryan Dahl",
+      "title": "Node.js Design Patterns",
+      "reviews": []
+    },
+    {
+      "isbn": "978-1-449-36597-4",
+      "author": "Ethan Brown",
+      "title": "Web Development with Node and Express",
+      "reviews": []
+    }
+  ]
+}
+
