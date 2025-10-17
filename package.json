@@ -6,6 +6,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "node server.js",
+    "start:test": "node start-with-tests.js",
     "dev": "nodemon server.js",
     "test": "node autotest.js",
     "test:endpoints": "node tests/testAllEndpoints.js",
