@@ -4,6 +4,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Environment variables — NEVER commit these
+.env
+.env.local
+.env.*.local
+*.env
+
 # Logs
 logs/
 *.log
@@ -27,3 +33,6 @@ coverage/
 tmp/
 temp/
 
+# Build output
+dist/
+build/
